@@ -3,7 +3,7 @@
 A full-stack developer network app where users can create profiles, showcase projects, search others by name or project, and leave feedback.
 
 ## 🌐 Live Demo (optional)
-devconnect-git-main-kuldeepdelhis-projects.vercel.app
+https://devconnect-git-main-kuldeepdelhis-projects.vercel.app/
 
 ---
 
